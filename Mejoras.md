@@ -1,4 +1,4 @@
-Informe 1 (Insertion Sort)--------------------------------------------------------------
+Informe 1 (Insertion Sort)-------------------------------------------------------------
 
 Descripción del problema (5/10):
 	- Falta definir el problema, no basta sólo con mencionar la entrada y salida.
